@@ -1,2 +1,0 @@
-# lnbits.sh
-# lnbits.sh
